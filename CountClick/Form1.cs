@@ -36,5 +36,10 @@ namespace CountClick
             times=0;
             labelShow.Text = "你已點了滑鼠  0下";
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
